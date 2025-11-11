@@ -5,7 +5,20 @@
 
 ## Projects
 
-### 🚧 TODO 🚧
+### Post Measure
+
+A utility app that automatically measures a package’s dimensions using your iPhone camera and suggests the most suitable shipping method and cost.
+
+I led the end-to-end development of the app, from concept to App Store release, handling the entire UI/UX design as well as the design and implementation of the MVVM architecture.
+
+<img src="assets/post_measure.gif" width="360">
+<img src="assets/post_measure.png">
+
+- Frameworks & Tools
+  - Flutter
+  - LogiMeasure (3D point cloud data analysis plugin developed by Automagi Inc.)
+  - Riverpod
+- [App Store](https://apps.apple.com/jp/app/%E3%81%BD%E3%81%99%E3%82%81%E3%81%98%E3%82%83%E3%83%BC/id6557072292)
 
 ## Private Projects
 
