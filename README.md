@@ -27,7 +27,7 @@ I led the end-to-end development of the app, from concept to App Store release, 
 App for custom components development trial with the Apple's newest liquid glass UI.
 
 <p>
-  <img src="https://github.com/KazmaWed/swiftui_sukinote/raw/main/docs/images/screenshot_top.png" width="240" alt="Main Screen">
+  <img src="https://github.com/KazmaWed/swiftui_sukinote/raw/main/docs/images/filter_sort.gif" width="240" alt="Main Screen">
   <img src="https://github.com/KazmaWed/swiftui_sukinote/raw/main/docs/images/screenshot_filter.png" width="240" alt="Category Filter">
   <img src="https://github.com/KazmaWed/swiftui_sukinote/raw/main/docs/images/screenshot_detail.png" width="240" alt="Note Detail">
 </p>
