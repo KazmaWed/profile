@@ -2,6 +2,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/kazuma-ueda-0b769b94/)
 - [Github](https://github.com/KazmaWed)
+- [Qiita (Japanese tech blog)](https://qiita.com/KAZMA_WED)
 
 ## Projects
 
