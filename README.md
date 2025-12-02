@@ -57,6 +57,7 @@ Free online multi player casual card game.
   - Flutter
   - Firebase Analytics, Crashlytics
   - Python (Rest API with Cloud Functins)
+  - Stable Diffusion
 - [Link](https://acornstoacorns.web.app/?lang=en) ([日本語版](https://acornstoacorns.web.app/?lang=jp))
 - [Github (App)](https://github.com/KazmaWed/flutter_online_cardgame)
 - [Github (API)](https://github.com/KazmaWed/flutter_online_cardgame_functions)
