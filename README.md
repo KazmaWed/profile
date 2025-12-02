@@ -19,6 +19,7 @@ I led the end-to-end development of the app, from concept to App Store release, 
   - Flutter
   - LogiMeasure (3D point cloud data analysis plugin developed by Automagi Inc.)
   - Riverpod
+  - Firebase Analytics, Crashlytics
 - [App Store](https://apps.apple.com/jp/app/%E3%81%BD%E3%81%99%E3%82%81%E3%81%98%E3%82%83%E3%83%BC/id6557072292)
 
 ## Private Projects
@@ -43,6 +44,7 @@ App for custom components development trial with the Apple's newest liquid glass
   - SwiftUI
   - UIKit
   - TCA
+  - Firebase Analytics, Crashlytics
 - [Github](https://github.com/KazmaWed/swiftui_sukinote)
 
 ### Online Multi Player Card Game
@@ -53,7 +55,7 @@ Free online multi player casual card game.
 
 - Frameworks & Tools
   - Flutter
-  - Firebase
+  - Firebase Analytics, Crashlytics
   - Python (Rest API with Cloud Functins)
 - [Link](https://acornstoacorns.web.app/?lang=en) ([日本語版](https://acornstoacorns.web.app/?lang=jp))
 - [Github (App)](https://github.com/KazmaWed/flutter_online_cardgame)
@@ -69,7 +71,7 @@ https://private-user-images.githubusercontent.com/68407933/432393964-a16b1e7f-05
 - Frameworks
   - Flutter
   - Flame Game Engine
-  - Firebase
+  - Firebase Analytics, Crashlytics
 - [Link](https://flutter-flame-typing.web.app/)
 - [Github](https://github.com/KazmaWed/flutter_flame_typing)
 
