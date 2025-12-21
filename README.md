@@ -51,7 +51,7 @@ App for custom components development trial with the Apple's newest liquid glass
 
 Free online multi player casual card game.
 
-<img src="https://github.com/KazmaWed/flutter_online_cardgame/raw/main/assets/images/logo_en.png" width="480">
+<img src="https://github.com/KazmaWed/flutter_online_cardgame/raw/main/assets/images/logo_en.png" width="300"><img src="https://github.com/KazmaWed/flutter_online_cardgame/raw/main/assets/images/logo_jp.png" width="300">
 
 - Frameworks & Tools
   - Flutter
